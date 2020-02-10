@@ -13,7 +13,7 @@ Implemented machine learning classifier along with a similarity algorithm to cla
 with the aim to replicate StackOverflow’s similar questions section results
 
 ## QuickStart
-   1. ```git clone https://github.com/rohitkeshav/stack_question_match.git```
+   1. ```git clone https://github.com/notsotraumatiq/stack_question_match.git```
    2. ```cd stack_question_match```
    3. ```pip install requirements```
    4. ```python consume_api.py <query>```
